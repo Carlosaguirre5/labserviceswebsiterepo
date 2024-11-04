@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Color de fondo */
+    color: #343a40; /* Color de texto */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff; /* Color principal */
+}
+
+p {
+    font-size: 18px;
+}
+
+.button {
+    background-color: #28a745; /* Color secundario */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-danger {
+    background-color: #dc3545; /* Color de énfasis */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
