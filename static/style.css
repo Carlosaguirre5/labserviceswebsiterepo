@@ -1,9 +1,11 @@
+/* Current CSS Styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f8f9fa; /* Color de fondo */
     color: #343a40; /* Color de texto */
     margin: 0;
     padding: 20px;
+    padding-top: 50px; /* Ensure space for the fixed navbar */
 }
 
 h1 {
@@ -30,4 +32,10 @@ p {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+}
+
+/* Styles from the Bootstrap starter template */
+.starter-template {
+    padding: 40px 15px; /* Template specific padding */
+    text-align: center; /* Center align the text */
 }
